@@ -1,5 +1,20 @@
 = Resources, Tips and Tricks for Young Researchers^*^
+// Settings:
+:idprefix:
+:idseparator: -
 :toc: macro
+:experimental:
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:outfilesuffix: .adoc
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:window: _blank
 
 last update Oct 2019
 
