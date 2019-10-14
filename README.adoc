@@ -1,0 +1,120 @@
+= Resources, Tips and Tricks for Young Researchers^*^
+:toc: macro
+
+last update Oct 2019
+
+[.text-right]
+[small]#^*^and not so young researchers as well.#
+
+[abstract]
+This document provides links and references to many potentially helpful online or printed resources for young researchers (PhD students, postdocs).
+Covered topics range from writing papers and giving good research talks to time management and more existential questions.
+Research in natural sciences is/was the main focus of this document but anyone starting a career in academic research might find some useful information here.
+
+TIP: Feel free to contribute, https://help.github.com/en/articles/creating-a-pull-request[pull requests] are welcome!
+
+[WARNING]
+====
+_Common Sense Disclaimer: links to websites or references to books contained herein do not constitute or imply their endorsement; those are no more than suggested readings._
+
+_PhD Comics Disclaimer: the author(s) cannot be held responsible for http://phdcomics.com/comics/archive.php?comicid=1388[procrastination] induced by the use of the present document._
+====
+
+toc::[]
+
+:numbered:
+
+== Doing research
+
+=== General advice
+
+Coming sooner or later...
+
+=== Bibliographic work
+
+* Prof. Srinivasan Keshav's https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf[How to read a Paper] paper
+
+[[Xwriting]]
+=== Writing scientific papers
+
+* Prof. Joe Wolfe's list of notes on https://newt.phys.unsw.edu.au/~jw/paper.html[Writing a scientific paper]
+* Prof. Simon Peyton Jones' talk (with https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf[PDF]) on https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/[How to write a great research paper]
+
+To improve writing skills:
+
+* William Strunk, Jr. and E.B. White reference book https://www.bartleby.com/141/index.html[The Elements of Style] <<Strunk1979>>
+
+=== Giving scientific talks
+
+* Prof. Simon Peyton Jones' talk (with https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-give-a-great-research-talk.pdf[PDF]) on https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/[How to give a great research talk]
+
+== For PhD students
+
+=== General advice
+
+* Andrej Karpathy's http://karpathy.github.io/2016/09/07/phd/[Survival Guide to a PhD] (PhD in Computer Science)
+* Lucy Taylor's and colleagues' https://www.nature.com/articles/d41586-018-07332-x[Twenty things to know when starting a PhD] (PhD in Zoology)
+* Lisa Jones'  https://tipbox.abcam.com/the-phd-survival-guide/[PhD Survival Guide] (PhD in developmental physiology)
+* Prof. James Arvanitakis' https://www.jamesarvanitakis.net/how-to-survive-a-phd-22-tips-from-the-dean-of-graduate-studies/[22 tips to survive a PhD]
+
+* https://thesiswhisperer.com/best-of-the-blog/[The Thesis Whisperer blog]
+
+=== Writing the first papers
+
+See <<Xwriting,Writing scientific papers>> sub-section
+
+=== Writing a PhD Thesis
+
+* Prof. Joe Wolfe's https://newt.phys.unsw.edu.au/~jw/thesis.html[How to Write a PhD Thesis] guide
+
+=== Thesis defence
+
+* Prof. Joe Wolfe's https://newt.phys.unsw.edu.au/~jw/viva.html[How to survive a thesis defence]
+* A https://www.theguardian.com/higher-education-network/2015/jan/08/how-to-survive-a-phd-viva-17-top-tips[collection of advice] by "`a number of academics and recent survivors`"
+* James Hayton's tips on https://jameshaytonphd.com/quick-tips/preparing-for-your-thesis-defence[How to prepare for your thesis defence]
+* Richard Budd's https://ddubdrahcir.wordpress.com/2014/09/15/is-it-a-phd-or-not-a-phd-unpacking-the-viva/[list of questions] you have to be able to answer before the viva (for social science doctorates but probably apply to most research fields)
+
+=== Fun and Philosophy 
+
+WARNING: Beware, procrastination ahead!
+
+* The obligatory http://phdcomics.com/comics/most_popular.php[PhD Comics] to remind you that you're not alone
+** Example: this document as seen by PhD Comics
+
+. [small]#http://phdcomics.com/comics/archive.php?comicid=749[Doing research]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=761[General advice]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=287[Bibliographic work]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1887[Writing scientific papers]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1704[Giving scientific talks]#
+. [small]#http://phdcomics.com/comics/archive.php?comicid=1803[For PhD students]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1893[General advice]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1734[Writing the first papers]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1796[Writing a PhD Thesis]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=561[Thesis defence]#
+.. [small]#http://phdcomics.com/comics/archive.php?comicid=1056[Fun and Philosophy]#
+. [small]#http://phdcomics.com/comics/archive.php?comicid=1744[For postdocs]#
+. [small]#http://phdcomics.com/comics/archive.php?comicid=1091[Tools]#
+. [small]#http://phdcomics.com/comics/archive.php?comicid=1823[Bibliography]#
+
+
+* Don't forget the Big Picture with http://matt.might.net/articles/phd-school-in-pictures/[PhD in pictures]
+
+== For postdocs
+
+Coming sooner or later...
+
+== Tools
+
+* https://paperscape.org/[PaperScape], a giant map of the articles published on the arXiv.
+If most papers in your field are available on the arXiv, this tool is simply amazing for exploring the scientific litterature.
+
+More coming sooner or later...
+
+:numbered!:
+
+[bibliography]
+== Bibliography
+
+[bibliography]
+- [[[Strunk1979]]] William Strunk, Jr. and E.B. White.
+ 'The Elements of Style'. Pearson, 4 edition. 1999. ISBN:9780205309023
