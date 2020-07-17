@@ -16,7 +16,7 @@ ifdef::env-github[]
 endif::[]
 :window: _blank
 
-last update Oct 2019
+created Oct 2019, last update Jul 2020
 
 [.text-right]
 [small]#^*^and not so young researchers as well.#
@@ -61,6 +61,7 @@ To improve writing skills:
 
 === Giving scientific talks
 
+* Prof. Patrick Henry Winston https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/[How to Speak] talk with transcript, a 40 years old MIT tradition (also on https://www.youtube.com/watch?v=Unzc731iCUY[YouTube])
 * Prof. Simon Peyton Jones' talk (with https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-give-a-great-research-talk.pdf[PDF]) on https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/[How to give a great research talk]
 
 == For PhD students
